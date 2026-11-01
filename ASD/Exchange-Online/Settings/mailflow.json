@@ -1,0 +1,23 @@
+{
+  "general": {
+    "plusAddressingEnabled": false,
+    "sendFromAliasesEnabled": false
+  },
+  "security": {
+    "smtpAuthProtocolEnabled": false,
+    "legacyTlsClientsAllowed": false
+  },
+  "replyAllStormProtection": {
+    "enabled": true,
+    "minimumRecipients": 2500,
+    "minimumReplyAlls": 10,
+    "blockDurationHours": 6
+  },
+  "messageRecall": {
+    "enabled": true,
+    "allowRecallReadMessages": true,
+    "enableRecipientAlerts": true,
+    "alertReadMessagesOnly": true,
+    "maxAgeDays": 1
+  }
+}

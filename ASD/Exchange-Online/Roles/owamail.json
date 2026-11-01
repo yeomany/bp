@@ -1,0 +1,28 @@
+{
+  "OwaMailboxPolicy-Default": {
+    "InstantMessagingEnabled": true,
+    "TextMessagingEnabled": true,
+    "ActiveSyncIntegrationEnabled": false,
+    "ContactsEnabled": true,
+    "LinkedInEnabled": false,
+    "AllAddressListsEnabled": true,
+    "JournalEnabled": false,
+    "NotesEnabled": true,
+    "RulesEnabled": true,
+    "RecoverDeletedItemsEnabled": true,
+    "ChangePasswordEnabled": true,
+    "ThemeSelectionEnabled": true,
+    "PremiumClientEnabled": true,
+    "SignaturesEnabled": true,
+    "WeatherEnabled": true,
+    "PlacesEnabled": false,
+    "LocalEventsEnabled": false,
+    "InterestingCalendarsEnabled": false,
+    "CalendarEnabled": true,
+    "TasksEnabled": true,
+    "RemindersAndNotificationsEnabled": true,
+    "DirectFileAccessOnPublicComputersEnabled": false,
+    "DirectFileAccessOnPrivateComputersEnabled": true,
+    "OfflineEnabledWeb": true
+  }
+}

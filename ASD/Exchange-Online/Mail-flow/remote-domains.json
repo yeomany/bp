@@ -1,0 +1,15 @@
+[
+  {
+    "Identity": "Default",
+    "DomainName": "*",
+    "AllowedOOFType": "ExternalOnly",
+    "AutoReplyEnabled": false,
+    "AutoForwardEnabled": false,
+    "DeliveryReportEnabled": false,
+    "NDRRequired": false,
+    "MeetingForwardNotificationEnabled": false,
+    "TNEFEnabled": null,
+    "CharacterSet": null,
+    "NonMIMECharacterSet": null
+  }
+]
